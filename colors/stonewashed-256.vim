@@ -49,6 +49,7 @@ hi Type ctermfg=17
 hi Typedef ctermfg=64 cterm=underline
 hi Underlined ctermfg=40 cterm=underline
 hi Visual ctermbg=117 ctermfg=0 cterm=none
+hi VertSplit ctermfg=255 ctermbg=0
 hi Wildmenu ctermbg=120 cterm=underline
 
 """ REFERENCE
