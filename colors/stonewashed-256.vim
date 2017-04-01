@@ -1,4 +1,4 @@
-""" VIM STONEWASHED 
+""" VIM STONEWASHED
 " A low-rent color-scheme for Vim
 "
 set background=light
@@ -13,7 +13,7 @@ let g:colors_name = "stonewashed-256"
 hi ColorColumn ctermbg=250
 hi Comment ctermfg=242
 hi Conditional ctermfg=94 cterm=underline
-hi Constant ctermfg=52 
+hi Constant ctermfg=52
 hi CursorColumn ctermbg=231
 hi CursorLine ctermbg=231 cterm=none
 hi Define ctermfg=94 cterm=underline
@@ -28,8 +28,8 @@ hi Macro ctermfg=94 cterm=underline
 hi MatchParen ctermbg=185 cterm=bold
 hi NonText ctermfg=244 ctermbg=254
 hi Normal ctermfg=0 ctermbg=255
-hi Number ctermfg=23 
-hi Pmenu ctermbg=75 ctermfg=253 cterm=reverse 
+hi Number ctermfg=23
+hi Pmenu ctermbg=75 ctermfg=253 cterm=reverse
 hi PmenuSel ctermfg=253 ctermbg=75
 hi PreConduit ctermfg=94
 hi PreProc ctermfg=94
@@ -40,7 +40,7 @@ hi SpecialKey ctermbg=254 ctermfg=248
 hi Statement ctermfg=52
 hi StatusLine ctermfg=144 ctermbg=140
 hi StatusLineNC ctermbg=144 ctermfg=144
-hi StorageClass ctermfg=17 
+hi StorageClass ctermfg=17
 hi String ctermfg=22
 hi Structure ctermfg=64 cterm=underline
 hi Title ctermfg=52
@@ -48,8 +48,7 @@ hi Todo ctermbg=226 ctermfg=238 cterm=bold
 hi Type ctermfg=17
 hi Typedef ctermfg=64 cterm=underline
 hi Underlined ctermfg=40 cterm=underline
-hi VertSplit ctermfg=232 ctermbg=195
-hi Visual ctermbg=117 ctermfg=0 cterm=none 
+hi Visual ctermbg=117 ctermfg=0 cterm=none
 hi Wildmenu ctermbg=120 cterm=underline
 
 """ REFERENCE
